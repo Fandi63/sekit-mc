@@ -14,5 +14,5 @@ Yes you dont pay for anything!!!
 
 # Download sekit-mc
 
-[![download_link](https://th.bing.com/th/id/R.40c26141ec2aaa8dabc6922a2136df84?rik=ttJ73i9NsBftJw&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2%2fDownload-Button-PNG-Photo.png&ehk=J9HQkbY7ZtoeE1FWlYpj2tx1RMuAURdsSop%2fgc%2bpisw%3d&risl=&pid=ImgRaw&r=0)](link_url)
+[![download_link](https://th.bing.com/th/id/R.40c26141ec2aaa8dabc6922a2136df84?rik=ttJ73i9NsBftJw&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2%2fDownload-Button-PNG-Photo.png&ehk=J9HQkbY7ZtoeE1FWlYpj2tx1RMuAURdsSop%2fgc%2bpisw%3d&risl=&pid=ImgRaw&r=0)](https://github.com/Fandi63/sekit-mc/raw/main/sekit-mc-v1.0.0.jar)
 
